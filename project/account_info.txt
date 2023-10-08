@@ -1,0 +1,5 @@
+---- Transaction History ----
+Transaction ID: 1 | Transaction Type: Withdraw | Amount: 23456
+Transaction ID: 2 | Transaction Type: Deposit | Amount: 2345
+Transaction ID: 3 | Transaction Type: Deposit | Amount: 23445
+Transaction ID: 4 | Transaction Type: Withdraw | Amount: 12098
